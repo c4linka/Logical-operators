@@ -1,7 +1,8 @@
 """oneToTen = set("1", "2", "3","4" ,"5" ,"6","7","8","9","10".split)
 a = input("Wybierz liczbę")
 if a == oneToTen:
-    print("Liczba zawiera się w przedziale od 1 do 10")
+    print("Liczba zawiera się w przedziale od 1 do 10") 
+    #my overthining ideas, fcors didnt work ;)
 
 
 setA = int
